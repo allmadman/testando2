@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prueba Rest</string>
+    <string name="id_label">El ID es</string>
+    <string name="id_value">[id]</string>
+    <string name="content_label">El Content es </string>
+    <string name="content_value">[content]</string>
+    <string name="action_refresh">Refrescar</string>
+
+</resources>
